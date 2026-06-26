@@ -10,3 +10,10 @@ git remote -v: kiem tra lai thong tin
 git add.
 git commit -m "noidung commit"
 git push 
+
+u:untrack
+m:
+a:
+d: delete
+r: rename
+ 
