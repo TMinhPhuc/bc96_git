@@ -1,0 +1,12 @@
+git config --global user.name ""
+git config --global user.name ""
+git init: thong bao sex git du an nay
+
+git remote add origin duong_dan_den_git: ket noi folder hien tai den repo tren git
+git remote -v: kiem tra lai thong tin
+
+--Day code len git hub
+
+git add.
+git commit -m "noidung commit"
+git push 
